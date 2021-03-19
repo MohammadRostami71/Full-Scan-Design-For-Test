@@ -1,0 +1,2685 @@
+
+module type in string = CPU_net
+knownModuleType ---> module type in integer = -1 
+
+module type in string = pin
+knownModuleType ---> module type in integer = 11 
+
+module type in string = pout
+knownModuleType ---> module type in integer = 8 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = fanout_n
+knownModuleType ---> module type in integer = 7 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = nor_n
+knownModuleType ---> module type in integer = 4 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = nor_n
+knownModuleType ---> module type in integer = 4 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = nor_n
+knownModuleType ---> module type in integer = 4 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = nor_n
+knownModuleType ---> module type in integer = 4 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = nor_n
+knownModuleType ---> module type in integer = 4 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = nor_n
+knownModuleType ---> module type in integer = 4 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = nor_n
+knownModuleType ---> module type in integer = 4 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = nor_n
+knownModuleType ---> module type in integer = 4 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = xnor_n
+knownModuleType ---> module type in integer = 6 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xnor_n
+knownModuleType ---> module type in integer = 6 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xnor_n
+knownModuleType ---> module type in integer = 6 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xnor_n
+knownModuleType ---> module type in integer = 6 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xnor_n
+knownModuleType ---> module type in integer = 6 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xnor_n
+knownModuleType ---> module type in integer = 6 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xnor_n
+knownModuleType ---> module type in integer = 6 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xnor_n
+knownModuleType ---> module type in integer = 6 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = nor_n
+knownModuleType ---> module type in integer = 4 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = nor_n
+knownModuleType ---> module type in integer = 4 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = notg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = xor_n
+knownModuleType ---> module type in integer = 5 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = or_n
+knownModuleType ---> module type in integer = 3 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = and_n
+knownModuleType ---> module type in integer = 1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = bufg
+knownModuleType ---> module type in integer = -1 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 
+
+module type in string = dff
+knownModuleType ---> module type in integer = 9 

@@ -1,0 +1,37 @@
+{C:/Users/Mohammad Rostami/Desktop/98443096/Part-1/5.Scan Insertion/netlist_CPU_V1.v} {1 {vlog -work work -nocovercells {C:/Users/Mohammad Rostami/Desktop/98443096/Part-1/5.Scan Insertion/netlist_CPU_V1.v}
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module CPU_net
+
+Top level modules:
+	CPU_net
+
+} {} {}} {C:/Users/Mohammad Rostami/Desktop/98443096/Part-1/5.Scan Insertion/component_library.v} {1 {vlog -work work -nocovercells {C:/Users/Mohammad Rostami/Desktop/98443096/Part-1/5.Scan Insertion/component_library.v}
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module bufg
+-- Compiling module notg
+-- Compiling module and_n
+-- Compiling module or_n
+-- Compiling module nand_n
+-- Compiling module nor_n
+-- Compiling module xor_n
+-- Compiling module xnor_n
+-- Compiling module fanout_n
+-- Compiling module pin
+-- Compiling module pout
+-- Compiling module dff
+
+Top level modules:
+	bufg
+	notg
+	and_n
+	or_n
+	nand_n
+	nor_n
+	xor_n
+	xnor_n
+	fanout_n
+	pin
+	pout
+	dff
+
+} {} {}}
